@@ -1,7 +1,7 @@
 # 🎙️ Podcast: Lo que el cliente no supo explicar
 
 **Fase 1 - Ingeniería de Requerimientos**  
-**Cátedra:** Investigación Aplicada en Ingeniería del Software 1 | Universidad Columbia del Paraguay[cite: 1]
+**Cátedra:** Investigación Aplicada en Ingeniería del Software 1 | Universidad Columbia del Paraguay
 
 ## 👥 Integrantes (Grupo 6)
 * Alam de Lima
@@ -25,5 +25,5 @@ La idea central que defendemos es que el relevamiento no consiste en tomar dicta
 El contenido del podcast fue contrastado con fuentes técnicas para asegurar su validez, incluyendo:
 * **IREB:** Conceptos de *Requirements Elicitation* y prácticas ágiles.
 * **NASA:** Guía y listas de control para escribir y verificar requerimientos de calidad (Appendix C).
-* **Universidad Columbia del Paraguay:** Proyecto de cátedra y Material de Apoyo (Unidad 6) elaborados por R. D. Ferreira Delgado[cite: 1].
-* **Estudios de IA:** Preprint de Mircea et al. (2026) sobre el uso de LLMs en la formulación de requisitos[cite: 1].
+* **Universidad Columbia del Paraguay:** Proyecto de cátedra y Material de Apoyo (Unidad 6) elaborados por R. D. Ferreira Delgado.
+* **Estudios de IA:** Preprint de Mircea et al. (2026) sobre el uso de LLMs en la formulación de requisitos.
